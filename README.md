@@ -24,8 +24,8 @@ Projek ini dikembangkan sebagai bentuk implementasi logika pemrograman Python da
 
 ## 📸 Screenshots
 *(💡 Ganti teks ini dengan gambar screenshot aplikasimu saat dijalankan)*
-> `![Tampilan Utama Aplikasi](link-gambar-screenshot-utama.png)`
-> `![Tampilan Struk Transaksi](link-gambar-screenshot-struk.png)`
+> <img width="1919" height="1079" alt="Screenshot 2026-03-10 232831" src="https://github.com/user-attachments/assets/e8add59b-2253-47cf-b033-0b537790f60b" />
+> <img width="1919" height="1079" alt="Screenshot 2026-03-10 233051" src="https://github.com/user-attachments/assets/06c3bad3-12c0-43df-8edc-7ebc07a445e2" />
 
 ## 🛠️ Teknologi yang Digunakan
 * **Bahasa Pemrograman:** Python 3.x
