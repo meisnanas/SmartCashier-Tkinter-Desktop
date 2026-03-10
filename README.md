@@ -23,7 +23,7 @@ Projek ini dikembangkan sebagai bentuk implementasi logika pemrograman Python da
 * **One-Click Reset:** Membersihkan seluruh kolom input dan area struk untuk memulai transaksi baru.
 
 ## 📸 Screenshots
-* **Tampilan awal**
+
 > <img width="1919" height="1079" alt="Screenshot 2026-03-10 232831" src="https://github.com/user-attachments/assets/e8add59b-2253-47cf-b033-0b537790f60b" />
 
 > <img width="1919" height="1079" alt="Screenshot 2026-03-10 233034" src="https://github.com/user-attachments/assets/17189a32-6fa0-4b62-bdba-7054a009af3c" />
